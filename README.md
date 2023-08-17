@@ -20,7 +20,7 @@ Installation
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/temperature-converter.git
+git clone https://github.com/abhishek389/Temperature-Convertor.git
 Navigate to the project directory.
 
 Open index.html in your preferred web browser.
